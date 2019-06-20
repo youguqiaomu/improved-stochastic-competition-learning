@@ -1,3 +1,7 @@
+The stochastic competition learning program is an algorithm for testing domination parameters.
+The data used is in "data_duibi". The data set is taken from SNAP.
+The xlsx file is a different stage opinion network.
+The "recurring random competition learning folder" has a set of procedures for reproducing the random competition learning algorithm and assisting the data. The algorithm has not been found in other open source code since the University of Sao Paulo, Brazil.
 随机竞争学习程序是检验控制参数方面算法改进的
 用的数据是data_duibi里面的 该数据集采自SNAP
 xlsx文件为不同阶段舆情网络
