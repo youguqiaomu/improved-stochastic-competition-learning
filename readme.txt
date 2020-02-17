@@ -2,8 +2,9 @@ The stochastic competition learning program is an algorithm for testing dominati
 The data used is in "data_duibi". The data set is taken from SNAP.
 The xlsx file is a different stage opinion network.
 The "recurring random competition learning folder" has a set of procedures for reproducing the random competition learning algorithm and assisting the data. The algorithm has not been found in other open source code since the University of Sao Paulo, Brazil.
-Ëæ»ú¾ºÕùÑ§Ï°³ÌĞòÊÇ¼ìÑé¿ØÖÆ²ÎÊı·½ÃæËã·¨¸Ä½øµÄ
-ÓÃµÄÊı¾İÊÇdata_duibiÀïÃæµÄ ¸ÃÊı¾İ¼¯²É×ÔSNAP
-xlsxÎÄ¼şÎª²»Í¬½×¶ÎÓßÇéÍøÂç
-¡°¸´ÏÖËæ»ú¾ºÕùÑ§Ï°ÎÄ¼ş¼Ğ¡±ÓĞÒ»ÕûÌ×¸´ÏÖÁËËæ»ú¾ºÕùÑ§Ï°Ëã·¨µÄ³ÌĞò£¬²¢¸¨ÖúÊı¾İ¡£¸ÃËã·¨×Ô°ÍÎ÷Ê¥±£ÂŞ´óÑ§Ìá³öºóÎ´¼ûÓĞÆäËû¿ªÔ´´úÂë£¬»¶Ó­½»Á÷Ê¹ÓÃ¡£
+EM_MB_DL_PM.ipynb can implement four algorithms
+éšæœºç«äº‰å­¦ä¹ ç¨‹åºæ˜¯æ£€éªŒæ§åˆ¶å‚æ•°æ–¹é¢ç®—æ³•æ”¹è¿›çš„
+ç”¨çš„æ•°æ®æ˜¯data_duibié‡Œé¢çš„ è¯¥æ•°æ®é›†é‡‡è‡ªSNAP
+xlsxæ–‡ä»¶ä¸ºä¸åŒé˜¶æ®µèˆ†æƒ…ç½‘ç»œ
+â€œå¤ç°éšæœºç«äº‰å­¦ä¹ æ–‡ä»¶å¤¹â€æœ‰ä¸€æ•´å¥—å¤ç°äº†éšæœºç«äº‰å­¦ä¹ ç®—æ³•çš„ç¨‹åºï¼Œå¹¶è¾…åŠ©æ•°æ®ã€‚è¯¥ç®—æ³•è‡ªå·´è¥¿åœ£ä¿ç½—å¤§å­¦æå‡ºåæœªè§æœ‰å…¶ä»–å¼€æºä»£ç ï¼Œæ¬¢è¿äº¤æµä½¿ç”¨ã€‚
 
